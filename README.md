@@ -38,12 +38,7 @@ Copy code
 ## ▶️ How to Run the Project
 
 ### Compile
-```bash
-g++ main.cpp -o restaurant
-Run
-bash
-Copy code
-./restaurant
+
 🏗️ System Design Overview
 MenuItem – Base class
 
